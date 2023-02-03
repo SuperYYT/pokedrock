@@ -1,3 +1,5 @@
+![Pokédrock Logo](img/Pokédrock.png)
+
 # 欢迎来到 Pokédrock 的文档！
 
 欢迎来到 [SERP Pokédrock](https://www.serpzacek.com/addons/serp-pok%C3%A9drock) 的世界！这个插件拥有惊艳和灵活的战斗系统！ 支持领域并与 [Minecraft Bedrock](https://www.minecraft.net/) 全面适配，获取完整的真实冒险体验！
