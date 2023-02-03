@@ -1,6 +1,6 @@
-site_name: PokeDrock 宝可梦模组文档
+site_name: SERP Pokédrock 模组文档
 docs_dir: docs
-theme: readthedocs
+theme: mkdocs
 
 extra_css:
   - 'static/test.css'
