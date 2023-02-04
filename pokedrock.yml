@@ -1,6 +1,6 @@
 site_name: SERP Pokédrock 模组文档
 docs_dir: docs
-theme: mkdocs-material
+theme: material
 
 extra_css:
   - 'static/test.css'
